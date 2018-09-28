@@ -1,0 +1,19 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    background: black;
+    color: azure;
+}
+
+.navbar ul {
+    width: 100%;
+    padding-left: 0;
+}
+
+.navbar li {
+    display: inline-block;
+    width: 33.3%;
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+}
